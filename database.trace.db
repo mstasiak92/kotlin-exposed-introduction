@@ -1,0 +1,12 @@
+2020-03-16 17:33:17 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabela "BLOG_POSTS" nie istnieje
+Table "BLOG_POSTS" not found; SQL statement:
+SELECT BLOG_POSTS.ID, BLOG_POSTS.TITLE, BLOG_POSTS.CONTENT, BLOG_POSTS.AUTHOR_ID FROM BLOG_POSTS [42102-200]
+2020-03-16 17:33:17 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabela "BLOG_POSTS" nie istnieje
+Table "BLOG_POSTS" not found; SQL statement:
+SELECT BLOG_POSTS.ID, BLOG_POSTS.TITLE, BLOG_POSTS.CONTENT, BLOG_POSTS.AUTHOR_ID FROM BLOG_POSTS [42102-200]
+2020-03-16 17:33:17 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabela "BLOG_POSTS" nie istnieje
+Table "BLOG_POSTS" not found; SQL statement:
+SELECT BLOG_POSTS.ID, BLOG_POSTS.TITLE, BLOG_POSTS.CONTENT, BLOG_POSTS.AUTHOR_ID FROM BLOG_POSTS [42102-200]
